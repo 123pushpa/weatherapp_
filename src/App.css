@@ -1,0 +1,15 @@
+.weather_conatiner {
+  margin: 150px;
+  background-color: aqua;
+}
+
+.input_text {
+  padding: 30px;
+}
+
+.button {
+  padding-left: 50px;
+}
+.info{
+  padding-left:50px;
+}
